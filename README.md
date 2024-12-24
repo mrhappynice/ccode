@@ -1,4 +1,4 @@
-# Code that happens to be C. :)
+# Code that happens to be C :)
 
 
 
