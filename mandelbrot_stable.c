@@ -16,6 +16,9 @@
 const char GRADIENT[] = " .'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$";
 #define GRADIENT_SIZE (sizeof(GRADIENT) - 1)
 
+int mandelbrot(double complex c, int max_iter);
+
+
 // Structure to hold view boundaries
 typedef struct {
     double x_min;
