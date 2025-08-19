@@ -17,12 +17,12 @@
    wget https://raw.githubusercontent.com/mrhappynice/ccode/refs/heads/main/wave.c
    ```
    
-- wave.c - experimental mandelbrot vizualization /fails after a min, mine, compile with: gcc exp_mandelbrot.c -o exp_mandelbrot -lm
+- exp_mandelbrot.c - experimental mandelbrot vizualization /fails after a min, mine, compile with: gcc exp_mandelbrot.c -o exp_mandelbrot -lm
    ```
    wget https://raw.githubusercontent.com/mrhappynice/ccode/refs/heads/main/exp_mandelbrot.c
    ```
    
-- wave.c - stable mandelbrot vizualization, mine, compile with: gcc mandelbrot_stable.c -o mandelbrot_stable -lm
+- mandelbrot_stable.c - stable mandelbrot vizualization, mine, compile with: gcc mandelbrot_stable.c -o mandelbrot_stable -lm
    ```
    wget https://raw.githubusercontent.com/mrhappynice/ccode/refs/heads/main/mandelbrot_stable.c
    ```
