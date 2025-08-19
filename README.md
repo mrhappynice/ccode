@@ -28,13 +28,5 @@
    ```
 
 
-
-
-  
-	
-Add files via upload
-	
-Dec 28, 2024
-mandelbrot_stable.c
   
 
